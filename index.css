@@ -56,7 +56,7 @@ h1{
     height: 35px;
     color:rgb(19, 18, 18) ;
     background-color: #dd0256;
-    font-size: 20px;
+    font-size: 15px;
     border-radius: 10px;
 }
 .btn:hover{
@@ -70,8 +70,75 @@ h1{
     text-align: center;
     padding-top: 3%;
 }
+.flo{
+    margin-left: 60%;
+    padding-top: 4%;
+}
+.button:hover{
+    background-color: rgb(230, 212, 212);
+}
+.button{
+    width: 100px;
+    height: 35px;
+    color:rgb(19, 18, 18) ;
+    background-color: #dd0256;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.service{
+    background-color:#fafcff;
+   
+}
+.provide{
+   text-align: center;
+    padding-top: 4%;
+}
+.wrap{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding-top: 5%;
 
 
+}
+.web{
+    border: 2px solid rgb(170, 166, 166);
+    border-radius: 16px;
+    background-color:rgb(157, 224, 226) ;
+    text-align: center;
+    margin-right: 3%;
+
+}
+.advert{
+    border: 2px solid rgb(170, 166, 166);
+    border-radius: 16px;
+    height: 250px;
+    text-align: center;
+    background-color:rgb(157, 224, 226) ;
+}
+.design{
+    border: 2px solid rgb(170, 166, 166);
+    border-radius: 16px;
+    text-align: center;
+    margin-left: 3%;
+    background-color:rgb(157, 224, 226) ;
+}
+.lorem{
+    padding-top: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+   
+}
+.ipsum{
+    padding-top: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.dolor{
+    padding-top: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
 
 
 
