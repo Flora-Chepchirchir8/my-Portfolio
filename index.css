@@ -36,7 +36,7 @@ ul li {
 
 .nav, ul{
     display: flex;
-    background-color: rgb(157, 224, 226);
+    background-color:#e7f3ff;
    
 }
 .text{
@@ -61,6 +61,7 @@ h1{
 }
 .btn:hover{
     background-color: rgb(230, 212, 212);
+
 }
 .sec2{
     background-color:#ffdacc;
@@ -98,13 +99,14 @@ h1{
     align-content: center;
     justify-content: center;
     padding-top: 5%;
+    padding-bottom: 5%;
 
 
 }
 .web{
     border: 2px solid rgb(170, 166, 166);
     border-radius: 16px;
-    background-color:rgb(157, 224, 226) ;
+    background-color:#e7f3ff ;
     text-align: center;
     margin-right: 3%;
 
@@ -114,14 +116,14 @@ h1{
     border-radius: 16px;
     height: 250px;
     text-align: center;
-    background-color:rgb(157, 224, 226) ;
+    background-color:#e7f3ff ;
 }
 .design{
     border: 2px solid rgb(170, 166, 166);
     border-radius: 16px;
     text-align: center;
     margin-left: 3%;
-    background-color:rgb(157, 224, 226) ;
+    background-color:#e7f3ff; 
 }
 .lorem{
     padding-top: 25%;
@@ -139,10 +141,69 @@ h1{
     padding-left: 2%;
     padding-right: 2%;
 }
+.skill{
+    background-color: #ffdacc;
+    height: 400px;
+  
+}
+.know{
+    text-align: center;
+    padding-top: 3%;
+}
+.bars{
+ 
+    padding-left: 5%;
+    padding-top: 3%;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.span{
+    font-weight: 500;
+    font-size: 18%;
+}
+.line{
+    height: 5px;
+    width: 100%;
+    background-color: lightgrey;
+    position: relative;
+}
+.line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 80%;
+    left: 0%;
+    top: 0%;
+    background-color:  #dd0256;
 
 
 
-
+}
+.skills-content{
+    margin-left: 60%;
+    padding-top: 3%;
+    padding-right: 5%;
+}
+.html::before{
+    width: 90%;
+}
+.css::before{
+    width: 80%;
+}
+.js::before{
+    width: 20%;
+}
+.boot::before{
+    width: 60%;
+}
+.project{
+    padding-left: 5%;
+    padding-top: 3%;
+    
+}
 
 
 
