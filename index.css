@@ -202,12 +202,30 @@ h1{
 .project{
     padding-left: 5%;
     padding-top: 3%;
-    
+
+}
+.icons {
+    color: rgb(15, 144, 230);
 }
 
-
-
-
+.btn2{
+    width: 100px;
+    height: 38px;
+    color:rgb(19, 18, 18) ;
+    background-color: #dd0256;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.contact{
+    padding-top: 3%;
+}
+.form{
+   padding-left: 5%; 
+   padding-right: 5%;
+}
+.contact{
+    background-color: #fafcff;
+}
 
 
 
