@@ -170,6 +170,8 @@ h1{
 .bars{
  
     padding-left: 5%;
+  
+  
     padding-top: 3%;
 }
 .info{
@@ -201,8 +203,9 @@ h1{
 }
 .skills-content{
     margin-left: 60%;
-    padding-top: 3%;
+  
     padding-right: 5%;
+    
 }
 .html::before{
     width: 90%;
@@ -251,6 +254,16 @@ h1{
 .chirry{
    margin-left: 80%;
 }
+.click{
+    width: 100px;
+    height: 35px;
+    color:rgb(19, 18, 18) ;
+    background-color: #dd0256;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+
 
 
 
