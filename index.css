@@ -87,7 +87,7 @@ h1{
     padding-top: 3%;
 }
 .flo{
-    margin-left: 50%;
+    margin-left: 40%;
     padding-top: 4%;
 }
 .button:hover{
@@ -137,8 +137,10 @@ h1{
     border: 2px solid rgb(170, 166, 166);
     border-radius: 16px;
     text-align: center;
+   
     margin-left: 3%;
     background-color:#e7f3ff; 
+ 
 }
 .lorem{
     padding-top: 25%;
@@ -241,8 +243,14 @@ h1{
 .contact{
     background-color: #fafcff;
 }
-
-
+.interest{
+    margin-left: 5%;
+    padding-top: 4%;
+    display: flex;
+}
+.chirry{
+   margin-left: 80%;
+}
 
 
 
