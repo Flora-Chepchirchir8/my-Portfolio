@@ -18,6 +18,13 @@ img{
     border-radius: 5px 5px;
     
 }
+.chirry img{
+   
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+}
 .desc{
     display: flex;
     padding-top: 3%;
@@ -57,6 +64,7 @@ ul li {
 }
 .mine{
     display: flex;
+    padding-top: 4%;
 }
 .desc .text{
     padding-top: 10%;
@@ -87,8 +95,9 @@ h1{
     padding-top: 3%;
 }
 .flo{
-    margin-left: 40%;
-    padding-top: 4%;
+    margin-left: 15%;
+  
+    flex:1;
 }
 .button:hover{
     background-color: rgb(230, 212, 212);
@@ -161,7 +170,11 @@ h1{
 .skill{
     background-color: #ffdacc;
     height: 400px;
+ 
   
+}
+.flex{
+    display: flex;
 }
 .know{
     text-align: center;
@@ -202,11 +215,12 @@ h1{
 
 }
 .skills-content{
-    margin-left: 60%;
+    margin-left: 20%;
   
     padding-right: 5%;
     
 }
+
 .html::before{
     width: 90%;
 }
@@ -224,9 +238,7 @@ h1{
     padding-top: 3%;
 
 }
-.icons {
-    color: rgb(15, 144, 230);
-}
+
 
 .btn2{
     width: 100px;
@@ -236,23 +248,27 @@ h1{
     font-size: 15px;
     border-radius: 10px;
 }
-.contact{
-    padding-top: 3%;
-}
-.form{
-   padding-left: 5%; 
-   padding-right: 5%;
-}
+
+
 .contact{
     background-color: #fafcff;
+    height: 300px;
+    display: flex;
+    padding-top: 3%;
+    margin-left: 10%;
+}
+.hobby{
+    /* margin-right:5% ; */
 }
 .interest{
-    margin-left: 5%;
-    padding-top: 4%;
+     margin-left: 10%;
+ 
     display: flex;
+    flex:1;
 }
 .chirry{
-   margin-left: 80%;
+    margin-left: 15%; 
+   flex:1;
 }
 .click{
     width: 100px;
@@ -262,6 +278,26 @@ h1{
     font-size: 15px;
     border-radius: 10px;
 }
+.form1{
+    background-color: #e7f3ff;
+    height: 300px;
+    width: 30%;
+    border: 2px solid rgb(170, 166, 166);
+    border-radius: 16px;
+    text-align: center;
+    /* margin-left: 60%; */
+  
+   
+}
+input{
+    height: 30px;
+    border-radius: 5px;
+  
+}
+.fab{
+    color: #dd0256;
+}
+
 
 
 
