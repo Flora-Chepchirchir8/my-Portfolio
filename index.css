@@ -186,12 +186,14 @@ h1{
     padding-left: 5%;
   
   
-    padding-top: 3%;
+    padding-top: 5%;
+
 }
 .info{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 350px;
 }
 .span{
     font-weight: 500;
@@ -303,6 +305,10 @@ input{
     background-color: #dd0256;
     font-size: 15px;
     border-radius: 10px;
+}
+.social{
+    margin-left: 20%;
+    padding-top: 5%;
 }
 
 
