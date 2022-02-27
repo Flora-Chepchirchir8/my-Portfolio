@@ -23,6 +23,7 @@ img{
     border-radius: 50%;
     height: 200px;
     width: 200px;
+    margin-left: 10%;
 
 }
 .desc{
@@ -257,9 +258,7 @@ h1{
     padding-top: 3%;
     margin-left: 10%;
 }
-.hobby{
-    /* margin-right:5% ; */
-}
+
 .interest{
      margin-left: 10%;
  
@@ -296,6 +295,14 @@ input{
 }
 .fab{
     color: #dd0256;
+}
+.btn3{
+    width: 100px;
+    height: 38px;
+    color:black ;
+    background-color: #dd0256;
+    font-size: 15px;
+    border-radius: 10px;
 }
 
 
